@@ -1,3 +1,6 @@
+// CAUTION!! 
+// change the name of serial port (line 35) which corresponds to that in arduino skech.
+
 import processing.serial.*;
 
 PFont font;
